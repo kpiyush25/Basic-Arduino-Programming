@@ -13,3 +13,6 @@ void loop()
     delay(100);
   }
 }
+/* If you are using digital pins for different values of 
+   brightness then use PWM pins (those with -ve signs)
+*/
